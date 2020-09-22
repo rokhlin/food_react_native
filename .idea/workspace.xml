@@ -2,16 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc1710a-39f5-43d8-9bab-6796b7f66119" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/food-react-native.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SearchScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +36,55 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/App.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="ReactNative" factoryName="React Native" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+      <platform value="IOS" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ios" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="ios" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="React Native.Unnamed" />
+      <item itemvalue="Node.js.App.js" />
+      <item itemvalue="npm.ios" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.ios" />
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -38,29 +95,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600778272328</updated>
-      <workItem from="1600778273684" duration="556000" />
+      <workItem from="1600778273684" duration="5266000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1600778934769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600778934769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="2327" height="331" key="GridCell.Tab.0.bottom" timestamp="1600778636208">
+    <state x="771" y="429" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600781747979">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2327" height="331" key="GridCell.Tab.0.bottom/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778636208" />
-    <state width="2327" height="331" key="GridCell.Tab.0.center" timestamp="1600778636207">
+    <state x="771" y="429" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600781747979" />
+    <state x="897" y="282" key="CommitChangelistDialog2" timestamp="1600778934571">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2327" height="331" key="GridCell.Tab.0.center/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778636207" />
-    <state width="2327" height="331" key="GridCell.Tab.0.left" timestamp="1600778636206">
+    <state x="897" y="282" key="CommitChangelistDialog2/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778934571" />
+    <state width="2327" height="331" key="GridCell.Tab.0.bottom" timestamp="1600782209321">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2327" height="331" key="GridCell.Tab.0.left/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778636206" />
-    <state width="2327" height="331" key="GridCell.Tab.0.right" timestamp="1600778636208">
+    <state width="2327" height="331" key="GridCell.Tab.0.bottom/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600782209321" />
+    <state width="2327" height="331" key="GridCell.Tab.0.center" timestamp="1600782209320">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2327" height="331" key="GridCell.Tab.0.right/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778636208" />
+    <state width="2327" height="331" key="GridCell.Tab.0.center/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600782209320" />
+    <state width="2327" height="331" key="GridCell.Tab.0.left" timestamp="1600782209320">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2327" height="331" key="GridCell.Tab.0.left/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600782209320" />
+    <state width="2327" height="331" key="GridCell.Tab.0.right" timestamp="1600782209321">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2327" height="331" key="GridCell.Tab.0.right/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600782209321" />
+    <state x="907" y="503" key="Vcs.Push.Dialog.v2" timestamp="1600778956440">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="907" y="503" key="Vcs.Push.Dialog.v2/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600778956440" />
+    <state x="940" y="429" width="670" height="676" key="search.everywhere.popup" timestamp="1600784256661">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="940" y="429" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417/1616.1463.1680.1027@0.23.2560.1417" timestamp="1600784256661" />
   </component>
 </project>
